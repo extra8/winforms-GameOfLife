@@ -2,4 +2,4 @@
 
 Used flowLayoutPanel as board
   
-Used PictureBoxes as cells
+Used PictureBoxes for cells
